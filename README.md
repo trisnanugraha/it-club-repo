@@ -16,3 +16,25 @@
 
 <br>
 <br>
+
+# Preview
+## Pertemuan 1
+
+<br>
+<p align="center"><img src="./preview/pertemuan-1.png"></p>
+
+<br>
+
+## Pertemuan 2
+
+<br>
+<p align="center"><img src="./preview/pertemuan-2.png"></p>
+
+<br>
+
+## Pertemuan 3
+
+<br>
+<p align="center"><img src="./preview/pertemuan-3.png"></p>
+
+<br>

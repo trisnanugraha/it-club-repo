@@ -38,3 +38,10 @@
 <p align="center"><img src="./preview/pertemuan-3.png"></p>
 
 <br>
+
+## Pertemuan 4
+
+<br>
+<p align="center"><img src="./preview/pertemuan-4.png"></p>
+
+<br>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+</head>
+
+<body>
+    <form>
+        <h1>Formulir Pendaftaran</h1>
+        <label for="namasekolah">Tujuan Sekolah</label>
+        <br />
+        <input type="text" name="namasekolah" value="SMKN 3 Kota Tangerang" readonly />
+        <br />
+        <br />
+        <label for="namalengkap">Nama Lengkap</label>
+        <br />
+        <input type="text" name="namalengkap" placeholder="Ahmad Fulan" required />
+        <br />
+        <br />
+        <label for="email">Email</label>
+        <br />
+        <input type="email" name="email" placeholder="ahmad@smkn3.sch.id" required />
+        <br />
+        <br />
+        <label for="password">Password</label>
+        <br />
+        <input type="password" name="password" required maxlength="16" />
+        <br />
+        <br />
+        <label for="prodi">Program Studi</label>
+        <br />
+        <select name="prodi" required>
+            <option value="">-- Pilih Program Studi --</option>
+            <option value="AP">Akomodasi Perhotelan</option>
+            <option value="TKJ">Teknik Komputer dan Jaringan</option>
+            <option value="Boga">Tata Boga</option>
+            <option value="Busana">Tata Busana</option>
+            <option value="KCK">Tata Kecantikan Kulit</option>
+            <option value="KCR">Tata Kecantikan Rambut</option>
+        </select>
+        <br />
+        <br />
+        <label for="gender">Gender</label>
+        <br />
+        <input type="radio" name="gender" value="Laki-Laki" required /><label for="laki-laki">Laki-Laki</label>
+        <br />
+        <input type="radio" name="gender" value="Perempuan" required /><label for="perempuan">Perempuan</label>
+        <br />
+        <br />
+        <input type="checkbox" name="status" value="Daftar Baru" required /><label for="daftar-baru">Saya setuju untuk
+            mendaftar</label>
+        <br />
+        <br />
+        <input type="submit" value="Daftar" />
+    </form>
+</body>
+
+</html>

@@ -14,6 +14,7 @@
 - [Pertemuan 2](https://github.com/trisnanugraha/it-club-repo/tree/master/pertemuan-2) : Halaman Profil Sederhana
 - [Pertemuan 3](https://github.com/trisnanugraha/it-club-repo/tree/master/pertemuan-3) : Halaman Artikel Sederhana
 - [Pertemuan 4](https://github.com/trisnanugraha/it-club-repo/tree/master/pertemuan-4) : Halaman Form Sederhana
+- [Pertemuan 5](https://github.com/trisnanugraha/it-club-repo/tree/master/pertemuan-5) : Table Sederhana
 
 <br>
 <br>
@@ -44,5 +45,12 @@
 
 <br>
 <p align="center"><img src="./preview/pertemuan-4.png"></p>
+
+<br>
+
+## Pertemuan 5
+
+<br>
+<p align="center"><img src="./preview/pertemuan-5.png"></p>
 
 <br>
